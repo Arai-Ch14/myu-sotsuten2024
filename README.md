@@ -19,7 +19,7 @@ buildディレクトリに書き出された本番ソースコードをサーバ
 
 1. リポジトリをクローン
    ```bash
-   git clone https://github.com/kanaru-ssk/myu-sotsuten2023.git
+   git clone https://github.com/Arai-Ch14/myu-sotsuten2024.git
    ```
 2. パッケージインストール
    ```bash
